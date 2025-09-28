@@ -1,2 +1,2 @@
 # GoLoCoNet
-Implementation code for GoLoCo-Net is provided here
+Implementation code for GoLoCo-Net will be provided here
